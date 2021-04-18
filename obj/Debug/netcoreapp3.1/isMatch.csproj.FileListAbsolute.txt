@@ -1,0 +1,12 @@
+C:\Users\3zAl7arbi\source\repos\isMatch\isMatch\bin\Debug\netcoreapp3.1\isMatch.exe
+C:\Users\3zAl7arbi\source\repos\isMatch\isMatch\bin\Debug\netcoreapp3.1\isMatch.deps.json
+C:\Users\3zAl7arbi\source\repos\isMatch\isMatch\bin\Debug\netcoreapp3.1\isMatch.runtimeconfig.json
+C:\Users\3zAl7arbi\source\repos\isMatch\isMatch\bin\Debug\netcoreapp3.1\isMatch.runtimeconfig.dev.json
+C:\Users\3zAl7arbi\source\repos\isMatch\isMatch\bin\Debug\netcoreapp3.1\isMatch.dll
+C:\Users\3zAl7arbi\source\repos\isMatch\isMatch\bin\Debug\netcoreapp3.1\isMatch.pdb
+C:\Users\3zAl7arbi\source\repos\isMatch\isMatch\obj\Debug\netcoreapp3.1\isMatch.AssemblyInfoInputs.cache
+C:\Users\3zAl7arbi\source\repos\isMatch\isMatch\obj\Debug\netcoreapp3.1\isMatch.AssemblyInfo.cs
+C:\Users\3zAl7arbi\source\repos\isMatch\isMatch\obj\Debug\netcoreapp3.1\isMatch.csproj.CoreCompileInputs.cache
+C:\Users\3zAl7arbi\source\repos\isMatch\isMatch\obj\Debug\netcoreapp3.1\isMatch.dll
+C:\Users\3zAl7arbi\source\repos\isMatch\isMatch\obj\Debug\netcoreapp3.1\isMatch.pdb
+C:\Users\3zAl7arbi\source\repos\isMatch\isMatch\obj\Debug\netcoreapp3.1\isMatch.genruntimeconfig.cache
